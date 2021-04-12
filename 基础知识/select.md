@@ -24,7 +24,7 @@
    ```go
    type ocase struct {
        hchan 
-       elem uint
+       elem uint32
    }
    ```
 
